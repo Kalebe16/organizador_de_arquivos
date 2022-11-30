@@ -1,6 +1,6 @@
 # organizador_de_arquivos
 
-<h1 align="center"></h1>
+<h1 align="center">🧹Organizador de Arquivos📂</h1>
 
 <h3>Descrição do projeto:</h3>
 <p><strong>- Aplicativo desktop que organiza arquivos dentro de um diretório qualquer</strong></p>
